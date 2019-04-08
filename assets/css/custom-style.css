@@ -1,0 +1,163 @@
+/* ACTION BAR */
+.action-bar {
+    background-color: #565656;
+}
+
+/* LOG SCREENS */
+.log-page {
+    background-color:#f3f3f3;
+    
+}
+
+.log-logo {
+    margin-top: 80px;
+}
+
+.log-ttl {
+    padding-top: 40px;
+	padding-bottom: 60px;
+    font-size: 32px;
+    font-family: 'Roboto', 'Roboto-Black';
+    font-weight: 700;
+}
+
+.log-ttl-int {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 32px;
+    font-family: 'Roboto', 'Roboto-Black';
+    font-weight: 700;
+}
+.log-bot {
+    padding-top: 40px;
+	font-size: 14px;
+}
+
+.font-14 {
+	font-size: 14px;
+}
+
+.log-bt {
+	text-decoration:none;
+	margin-bottom: 25px;
+	width: 80%;
+    border-radius: 60px;
+    height:100px;
+    color: white;
+    font-family: 'Roboto', 'Roboto-Bold';
+    font-weight: 600;
+}
+
+.log-bt .fa {
+    font-size: 18px;
+}
+
+.log-bt-google {
+    background-color: #db4437;
+}
+
+.log-bt-facebook {
+    background-color: #3c5a99;
+}
+
+.log-bt-twitter {
+    background-color: #1da1f2;
+}
+
+.log-bt-email {
+    background-color: #565656;
+}
+
+.log-bt-dark {
+    background-color: #222222;
+}
+ 
+.log-bt-verde {
+    background-color: #1aa564;
+}
+
+.log-bt-rojo {
+    background-color: #cf4040;
+}
+.log-rojo {
+    color: #cf4040;
+    border: solid 0.1em #cf4040;
+}
+.log-bt-azul {
+    background-color: #3c5a99   ;    
+}
+.log-bt-azul:disabled {
+    background-color: #6c6e72   ;    
+}
+.back-gris {
+    background-color: #1aa564   ;    
+}
+
+
+/* LOGEMAIL SCREENS */
+.logemail-input {
+    padding-bottom: 20px;
+}
+
+.form-logemail {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.bt-registeremail {
+    margin-top: 60px;
+}
+
+.item_template{
+    margin: 10 10 0 10;
+}    
+
+.item_image{
+    width:100%; 
+    border-radius:10 10 0 0; 
+    }
+
+.item_description{
+    width:100%; 
+    padding: 10 10 10 10;
+    border-radius:0 0 10 10; 
+    background-color: #FFF;
+    }
+
+.item_ago{
+    margin-top: 5px;
+    margin-left: 5px;
+    color: #FFF; 
+    font-size: 14px;  
+}
+.item_artistname{
+    color: #000; 
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 16px;  
+}
+.item_description{
+    color: #000; 
+    font-size: 11px;
+    margin-top: 2px;  
+}
+.avatar{
+  background-color: #ffffff;
+  width:40;
+  height: 40;
+  margin-right: 5;
+}
+
+.circle-wrapper{
+  background-color: #666666;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+}    
+
+.but_fotter {
+    width: 25%;
+    background-color: white;
+    size: 22px;
+}

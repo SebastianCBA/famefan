@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FameFan App</string>
+    <string name="title_activity_kimera">FameFan App</string>
+    <string name="facebook_app_id">291048201366687</string>
+    <string name="fb_login_protocol_scheme">fb291048201366687</string>
+</resources>

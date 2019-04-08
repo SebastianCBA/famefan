@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "726061983704",
+    "firebase_url": "https://famefan-175523.firebaseio.com",
+    "project_id": "famefan-175523",
+    "storage_bucket": "famefan-175523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726061983704:android:459163bd31908909",
+        "android_client_info": {
+          "package_name": "org.nativescript.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726061983704-71990tf75hasniijbd4lcp5f5bj5bbl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.nativescript.application",
+            "certificate_hash": "d3417d446d27f61caa6155f6256a634945d54d43"
+          }
+        },
+        {
+          "client_id": "726061983704-fdupegqprko6ul38rvhmn9hq7e6l8mge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrCWPkNj6At-qZNzjlQU310vX7QM_wEOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726061983704-fdupegqprko6ul38rvhmn9hq7e6l8mge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

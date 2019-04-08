@@ -1,0 +1,58 @@
+// Import app variables
+@import 'app-variables';
+
+// Import the theme’s main ruleset - both index and platform specific.
+@import '~nativescript-theme-core/scss/index';
+@import '~nativescript-theme-core/scss/platforms/index.android';
+
+// Import common styles
+@import 'app-common';
+
+.far {
+    font-family: Font Awesome 5 Free, fa-regular-400;
+    font-weight: 400;
+  }
+.fab {
+    font-family: Font Awesome 5 Brands, fa-brands-400;
+    font-weight: 400;
+  }
+.fas {
+    font-family: Font Awesome 5 Free, fa-solid-900;
+    font-weight: 900;
+  }
+.fa {
+    font-family: FontAwesome, fontawesome-webfont;
+  }
+.zmdi {
+    font-family: Material-Design-Iconic-Font, Material-Design-Iconic-Font;
+  }
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('~/fonts/Roboto-Light.tff') format('truetype');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('~/fonts/Roboto-Regular.tff') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('~/fonts/Roboto-Medium.tff') format('truetype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('~/fonts/Roboto-Bold.tff') format('truetype');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('~/fonts/Roboto-Black.tff') format('truetype');
+    font-weight: 700;
+}
